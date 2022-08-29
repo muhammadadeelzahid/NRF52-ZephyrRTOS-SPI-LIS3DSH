@@ -16,8 +16,6 @@ nRF Connect SDK v2.0.2
 
 Supported boards:
 
-nrf52dk_nrf52832.
-
-nrf52840dk_nrf52840.
-
-nrf5340dk_nrf5340_cpuapp.
+nrf52dk_nrf52832
+nrf52840dk_nrf52840
+nrf5340dk_nrf5340_cpuapp

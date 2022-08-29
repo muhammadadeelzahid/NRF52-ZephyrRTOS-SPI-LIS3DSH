@@ -1,7 +1,7 @@
 # NRF52-LIS3DSH
 Interfacing LIS3DSH Accelerometer module with NRF52DK (NRF52832) over SPI running Connect SDK using Zephyr's SPI drivers
 Uses SPI instance 1 to communicate with LIS3DSH specified in the prj.conf file. 
-Pins configurations are specified in the overlay file.
+Pins configurations are specified in the overlay file. \n
 Make sure to specify the lis3dsh.c file in the CMAKELIST.txt for to be included in the build process.
 
 
